@@ -30,4 +30,5 @@ module Myapp
     end
     config.action_view.default_form_builder = 'ApplicationFormBuilder'
   end
+  
 end
